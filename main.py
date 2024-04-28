@@ -1,7 +1,6 @@
 """
 Rapport sur l’Analyse de l’Impact des Habitudes d’Étude sur la Performance Académique
 Réalisé par : Younes KORBI, Ahmed ABBASSI
-Enseignante de cours : Dr. Amina BEN HAJ KHALED
 
 ISITCom, Sousse
 """
